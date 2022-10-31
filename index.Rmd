@@ -1,0 +1,19 @@
+---
+title: "mark"
+output: html_document
+date: "2022-10-31"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Sample of Website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+# How to put a link to a page
+[google](https://www.google.com/)
+
+# How you call an image 
+![](images/ted.jpg)
